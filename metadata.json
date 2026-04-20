@@ -1,0 +1,6 @@
+{
+  "name": "MovieMjuzi",
+  "description": "AI chatbot anayechambua movies na kusimulia story zake kwa Kiswahili fasaha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["TMDB Movie Data", "AI Analysis", "Swahili TTS", "Real-time Search", "Storytelling"]
+}
